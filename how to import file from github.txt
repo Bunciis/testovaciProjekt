@@ -1,0 +1,9 @@
+ve visual studio codu si dám BASH TERMINAL a do něj:
+
+git clone *web url projektu z githubu*. čimž si stáhnu verzi kódu k sobě do offlinu. 
+abych to pak nahrál na net, tak na to jsou další příkazy (git push. etc..)
+
+verze můžu větvit:
+
+git branch *název* (vytvořim novou větev)
+git merge *název* (spojení větví)
